@@ -10,11 +10,11 @@ stream https://learn.snhu.edu/d2l/common/js/D2L.LP.Web.Core.default.js?v=20.21.7
 text   \\fs-snhu\temp\snhu\227\61d3997a85974021a2b1712e2017cb17\package\413216\d2l\common\js\4.js
 stream https://learn.snhu.edu/d2l/common/js/D2L.LP.Web.Controls.UserProfile.default.js?v=20.21.7.31019
 text   \\fs-snhu\temp\snhu\227\61d3997a85974021a2b1712e2017cb17\package\413216\d2l\common\js\5.js
-stream https://learn.snhu.edu/d2l/ep/common/static/js/ep_namespaces.js?v=20.21.7.31019&Offline=2
+stream https://learn.snhu.edu/d2l/eP/common/static/js/ep_namespaces.js?v=20.21.7.31019&Offline=2
 text   \\fs-snhu\temp\snhu\227\61d3997a85974021a2b1712e2017cb17\package\413216\d2l\ep\common\static\js\6.js
-stream https://learn.snhu.edu/d2l/ep/common/static/js/ep_enums.js?v=20.21.7.31019&Offline=2
+stream https://learn.snhu.edu/d2l/eP/common/static/js/ep_enums.js?v=20.21.7.31019&Offline=2
 text   \\fs-snhu\temp\snhu\227\61d3997a85974021a2b1712e2017cb17\package\413216\d2l\ep\common\static\js\7.js
-stream https://learn.snhu.edu/d2l/ep/common/static/js/ep_common.js?v=20.21.7.31019&Offline=2
+stream https://learn.snhu.edu/d2l/eP/common/static/js/ep_common.js?v=20.21.7.31019&Offline=2
 text   \\fs-snhu\temp\snhu\227\61d3997a85974021a2b1712e2017cb17\package\413216\d2l\ep\common\static\js\8.js
 stream https://learn.snhu.edu/d2l/eP/artifacts/static/js/viewForm.js?v=20.21.7.31019&Offline=2
 text   \\fs-snhu\temp\snhu\227\61d3997a85974021a2b1712e2017cb17\package\413216\d2l\eP\artifacts\static\js\9.js
